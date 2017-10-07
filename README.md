@@ -1,3 +1,4 @@
 # teeple31.github.io
-First README file
-Will Update overtime.
+First attempt at GitHub Page
+<p>Will Update overtime.</p>
+
